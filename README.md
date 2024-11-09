@@ -5,6 +5,7 @@ The goal of this project is to predict the type of forest cover based on various
 The dataset includes multiple features such as elevation, aspect, slope, and soil type, which are used to classify the forest cover type into one of seven categories.
 ## Dataset
 The dataset used for this project is the Forest Cover Type dataset from Kaggle. It contains 581,012 rows and 54 columns, including both features and the target variable.
+https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset.
 
 ## Preprocessing Steps
 The data preprocessing involved the following steps:
