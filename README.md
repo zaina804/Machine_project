@@ -1,5 +1,5 @@
 # Machine_project
-I'm Intrducing my first machine learning model after completing the machine learning course from SHAI for AI 
+I'm Intrducing my first machine learning model after completing the Data Science course from SHAI for AI 
 ## Project Overview
 The goal of this project is to predict the type of forest cover based on various environmental features.
 The dataset includes multiple features such as elevation, aspect, slope, and soil type, which are used to classify the forest cover type into one of seven categories.
