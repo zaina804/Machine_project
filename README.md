@@ -9,26 +9,26 @@ The dataset used for this project is the Forest Cover Type dataset from Kaggle. 
 ## Preprocessing Steps
 The data preprocessing involved the following steps:
  1.Data Cleaning:Like removing outliers, making sure there is no duplicates or missing values.
- 2.Exploratory Data Analysis (EDA): Used charts and visualizations to understand the data distribution and relationships between features.
- 3.Feature Scaling: Applied standardization techniques to ensure that features are on a similar scale for models like Logisitic regression and KNN that are sensitive to the scale of input features.
+  2.Exploratory Data Analysis (EDA): Used charts and visualizations to understand the data distribution and relationships between features.
+  3.Feature Scaling: Applied standardization techniques to ensure that features are on a similar scale for models like Logisitic regression and KNN that are sensitive to the scale of input features.
  
 ## Models Used
 Four different machine learning models were implemented and trained on the dataset:
 
-Logistic Regression
-Decision Tree
-Random Forest
-K-Nearest Neighbors (KNN)
+Logistic Regression,
+ Decision Tree,
+ Random Forest,
+ K-Nearest Neighbors (KNN),
 
 ## Hyper paramter tuning
 Used the RandmoizedSearchCV from Sickit-learn for hyper Parameter tuning step
 
 ## Scores
 Comparing before and after hyper parameter tuning and seeing who performed the best using four metrics scores and seeing who performed the best:
-Accuracy score
-Precision score
-Recall score
-F1 score
+Accuracy score,
+ Precision score,
+ Recall score,
+ F1 score,
 
 ## Results
 The performance of the models was evaluated using a confusion matrix.
